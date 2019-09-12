@@ -1,0 +1,10 @@
+9/09: (Sam)
+Visited the World Health organisation website, to look at the datasets they provide. Found a possiblity; (http://apps.who.int/gho/data/view.main.SDGAIRBOD392v?lang=en) Dataset on the joint effects of air pollution by country. I like this dataset because it has possibilities of joining it with other datasets eg (http://apps.who.int/gho/data/node.main.152?lang=en) a dataset cotaining a measure of air pollution per year for different countries. Which could also join with this dataset (http://apps.who.int/gho/data/node.main.SDGFUELS712?lang=en) that has the proportion of the population with primary reliance on clean fuels and technologies. 
+All of the WHO datasets that I looked at seemed to have very similar formats, so creating a general data wrangling script that could wrangle any and all of the datasets contained on WHO could also be an option. But is the data messy enough?
+
+13/09: (Sam, Matt, Amala)
+Decided on a topic for the group project; Pollution
+Set up a github repository/project and all signed up.
+Found more datasets relating to pollution theme that can possilbly be used to join to main dataset:
+    http://apps.who.int/gho/data/node.main.BODHOUSEHOLDAIRDTHS?lang=en
+    
